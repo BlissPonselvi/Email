@@ -1,6 +1,0 @@
-version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
-options: "28f1c8565b4e0a67a1670f33c012c6dd"
-build_time: [511608797, 68371000]
-inputs:
-  "/Users/ChristoJoel/Desktop/Email/Email/ViewController.swift": [511605671, 0]
-  "/Users/ChristoJoel/Desktop/Email/Email/AppDelegate.swift": [511605276, 0]
